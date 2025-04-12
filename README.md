@@ -1,4 +1,4 @@
-# OnBoaring
+# OnBoarding
 
 A new Flutter project.
 
