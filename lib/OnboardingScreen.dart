@@ -1,3 +1,4 @@
+// ignore_for_file: file_names
 import 'package:flutter/material.dart';
 import 'package:myapp/HomeScreen.dart';
 import 'package:myapp/OnboardingPage.dart';
